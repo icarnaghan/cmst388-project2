@@ -25,7 +25,7 @@ const displayBookmarks = () => {
 const addBookmark = (event) => {
     event.preventDefault();
 
-    /* PART 2: IMPLEMENT ADD BOOKMARK TO LIST
+    /* PART 2: ADD BOOKMARK TO LIST
     --------------------------------------------------
     */
 
@@ -47,7 +47,7 @@ const addBookmark = (event) => {
 // Function to remove a bookmark
 const removeBookmark = (index) => {
 
-    /* PART 3: IMPLEMENT REMOVE BOOKMARK FROM LIST
+    /* PART 3: REMOVE BOOKMARK FROM LIST
     --------------------------------------------------
     */
 
